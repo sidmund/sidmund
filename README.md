@@ -1,4 +1,6 @@
-### Hi there 👋
+👋 Hi! I'm a Technical Computer Science student at UTwente.
+
+_For now not much too see here, just wait until this page fills up..._
 
 <!--
 **sidmund/sidmund** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
